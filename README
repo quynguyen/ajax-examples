@@ -1,0 +1,20 @@
+
+Examples from the article:
+
+    http://www.ibm.com/developerworks/web/library/wa-reverseajax1/index.html
+
+You must have Maven installed to run the projects:
+
+    http://maven.apache.org/
+
+Then cd to a sample
+
+    cd polling
+
+Then execute:
+
+    mvn jetty:run
+
+And go to
+
+    http://localhost:8080/
